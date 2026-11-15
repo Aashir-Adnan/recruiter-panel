@@ -1,0 +1,11 @@
+{
+  "name": "recruiter-panel",
+  "displayName": "Recruiter Panel",
+  "description": "Research a job and employer, then have four simulated recruiters (two non-technical, two technical) review your resume, GitHub, LinkedIn and portfolio with screenshots and decide whether to interview you.",
+  "version": "1.0.0",
+  "author": { "name": "Aashir Adnan" },
+  "homepage": "https://github.com/Aashir-Adnan/recruiter-panel",
+  "repository": "https://github.com/Aashir-Adnan/recruiter-panel",
+  "license": "MIT",
+  "keywords": ["resume", "recruiting", "job-search", "portfolio", "github", "linkedin"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "recruiter-panel-marketplace",
+  "description": "Job-search tools",
+  "owner": { "name": "Aashir Adnan" },
+  "plugins": [
+    {
+      "name": "recruiter-panel",
+      "source": "./",
+      "description": "Four simulated recruiters review your resume, GitHub, LinkedIn and portfolio for a specific job."
+    }
+  ]
+}
